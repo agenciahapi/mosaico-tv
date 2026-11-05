@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.4",
-  "apk": "https://raw.githubusercontent.com/agenciahapi/mosaico-tv/main/mosaico-1.4.apk",
-  "sha256": "fde9e8848a958567f7814945ab46c4ed5a57c05cec49a7a81766ccf1dce166aa",
-  "notes": "Para você (Marketing e IA), Corinthians com placar ao vivo, modo descanso, celular como controle e desligamento automático."
+  "versionCode": 7,
+  "versionName": "1.4.1",
+  "apk": "https://raw.githubusercontent.com/agenciahapi/mosaico-tv/main/mosaico-1.4.1.apk",
+  "sha256": "a72db90b72687420feaa5209f31ae98ea95434770506519ce9e861c461df1dab",
+  "notes": "Conserta o código do celular, celular de cada pessoa com as próprias fotos, e Para você e Corinthians só para quem quiser."
 }
